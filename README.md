@@ -9,7 +9,7 @@ Interact with the dashboard here - https://lookerstudio.google.com/s/rodCmGIaGOw
 This Sentiment Analysis Dashboard provides a comprehensive view of user perceptions across multiple digital platforms. It aggregates and visualizes sentiment data from social media interactions to enable data-driven decision-making in customer experience, marketing, and product strategy.
 
 ### Scope  
-- **Time Frame**: Full calendar year (12 months), with monthly, daily, and hourly granularity  
+- **Time Frame**:2011 - 2023 + Full calendar year (12 months), with monthly, daily, and hourly granularity  
 - **Platforms Tracked**: Instagram, Facebook, Twitter (X)  
 - **Sentiment Categories**: Positive, Negative, Neutral  
 - **Total Data Points Analyzed**: 499 user sentiments  
