@@ -6,7 +6,7 @@ Interact with the dashboard here - https://lookerstudio.google.com/s/rodCmGIaGOw
 ## 1. Background and Overview  
 
 ### Purpose  
-This Sentiment Analysis Dashboard provides a comprehensive, real-time view of user perceptions across multiple digital platforms. It aggregates and visualizes sentiment data from social media interactions to enable data-driven decision-making in customer experience, marketing, and product strategy.
+This Sentiment Analysis Dashboard provides a comprehensive view of user perceptions across multiple digital platforms. It aggregates and visualizes sentiment data from social media interactions to enable data-driven decision-making in customer experience, marketing, and product strategy.
 
 ### Scope  
 - **Time Frame**: Full calendar year (12 months), with monthly, daily, and hourly granularity  
