@@ -54,6 +54,8 @@ This Sentiment Analysis Dashboard provides a comprehensive view of user percepti
 
 ## 4. Insights Deep Dive  
 
+![yeah yeah](https://github.com/bakonaanlong/Sentiment_Analysis/blob/main/sentiment.PNG)
+
 ### 4.1 Monthly Sentiment Trends  
 - **August** shows a sharp spike in **all three sentiment types**, especially **Positive (17)** and **Neutral (20)**  
 - **Positive sentiment** declines steadily from August through December, then fluctuates mildly  
@@ -74,7 +76,7 @@ This Sentiment Analysis Dashboard provides a comprehensive view of user percepti
 - **Night (18:00–23:59)**: Second-highest (~60 sentiments)  
 - **Morning (06:00–11:59)**: Lowest activity (~50 sentiments)  
 
-> **Implication**: Users are most vocal during lunch and post-work hours — ideal windows for response and engagement.
+> **Implication**: Users are most vocal during lunch and post-work hours which ideal windows for response and engagement.
 
 ---
 
@@ -103,11 +105,4 @@ This Sentiment Analysis Dashboard provides a comprehensive view of user percepti
 
 ---
 
-**Dashboard Version**: 1.0  
-**Last Updated**: November 08, 2025  
-**Maintained By**: Customer Insights & Analytics Team  
-**Contact**: [sentiment.support@company.com](mailto:sentiment.support@company.com)  
 
---- 
-
-*This document is intended for internal stakeholders, analysts, and leadership. For raw data access, refer to the Data Source Dictionary via the Help Centre.*
