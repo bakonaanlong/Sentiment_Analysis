@@ -1,2 +1,2 @@
 # Sentiment_Analysis
-Social media sentiment analysis across various years
+Interact with the dashboard here - https://lookerstudio.google.com/s/rodCmGIaGOw
