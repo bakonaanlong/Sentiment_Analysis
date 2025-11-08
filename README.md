@@ -1,10 +1,6 @@
 # Sentiment_Analysis
 Interact with the dashboard here - https://lookerstudio.google.com/s/rodCmGIaGOw
 
-
-# SENTIMENT ANALYSIS DASHBOARD  
-**Official README Documentation**  
-
 ---
 
 ## 1. Background and Overview  
